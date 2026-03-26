@@ -1,4 +1,8 @@
 package Model;
 
-public class GameModel {
+public class GameModel  {
+
+    public GameModel (){
+
+    }
 }
